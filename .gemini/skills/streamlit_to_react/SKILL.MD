@@ -178,7 +178,7 @@ Write three README files:
 - API integration: which frontend actions call which backend endpoints
 - Visualization library used and why
 
-### `README.md` (root)
+### `SKILL_OUTPUT_README.md` (root)
 The primary entry point. Must include:
 
 **How to run (development)**
